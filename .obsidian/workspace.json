@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e19eb0c67240d220",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a258aa0d69a6a8d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3c98f4356552f537",
         "type": "tabs",
         "children": [
@@ -31,27 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub.md",
+                "file": "Markdown.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f11bbc28a15f38e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a5f2295693be7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Markdown.md"
               }
             }
           }
@@ -175,9 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a258aa0d69a6a8d2",
+  "active": "ab10414263a9fad9",
   "lastOpenFiles": [
     "GitHub.md",
+    "Markdown.md",
     "README.md",
     "Install VSCode.md",
     "git.md",
