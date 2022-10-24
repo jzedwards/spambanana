@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -31,9 +31,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GitHub.md",
                 "mode": "preview",
-                "source": true
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f11bbc28a15f38e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5f2295693be7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -87,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 340.5
   },
   "right": {
     "id": "2db727404392c567",
@@ -159,7 +177,13 @@
   },
   "active": "a258aa0d69a6a8d2",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "README.md"
+    "GitHub.md",
+    "README.md",
+    "Install VSCode.md",
+    "git.md",
+    "github.md",
+    "media/Pasted image 20221024113042.png",
+    "Pasted image 20221024113036.png",
+    "Obsidian.md"
   ]
 }
