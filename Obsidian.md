@@ -1,0 +1,1 @@
+[[Obsidian]] is a note taking tool, with some nice cross referencing
