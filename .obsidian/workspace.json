@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -141,11 +141,11 @@
   },
   "active": "52e0061d7e8edfac",
   "lastOpenFiles": [
+    "git.md",
+    "README.md",
     "GitHub.md",
     "Markdown.md",
-    "README.md",
     "Install VSCode.md",
-    "git.md",
     "github.md",
     "media/Pasted image 20221024113042.png",
     "Pasted image 20221024113036.png",
